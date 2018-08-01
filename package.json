@@ -1,0 +1,23 @@
+{
+  "name": "abcb2_sample",
+  "version": "1.0.0",
+  "description": "sample npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abcb2/abcb2_sample.git"
+  },
+  "keywords": [
+    "sample",
+    "abcb2"
+  ],
+  "author": "Kouji Watanabe <kouji.wtnb@gmail.com> (https://abcb2.github.io/blog)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abcb2/abcb2_sample/issues"
+  },
+  "homepage": "https://github.com/abcb2/abcb2_sample#readme"
+}
